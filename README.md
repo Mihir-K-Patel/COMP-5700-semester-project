@@ -5,3 +5,5 @@ This repo contains all the code files that generate the CSV files with all the i
 
 ## Team Members:
 Cian Leonard
+Maddie Larkin
+Mihir Patel
